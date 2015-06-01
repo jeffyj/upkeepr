@@ -3,5 +3,5 @@
 #### iOS UI
 ###### Designed in iOS Sketch
 
-![upkeepr app ui](https://raw.githubusercontent.com/jeffyj/upkeepr/master/upkeepr_ui_final.png =250x)
+<img src="https://raw.githubusercontent.com/jeffyj/upkeepr/master/upkeepr_ui_final.png" alt="upkeepr app ui" style="width:100;height:150">
 
